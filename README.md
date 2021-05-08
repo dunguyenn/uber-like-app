@@ -1,2 +1,2 @@
-# uber-like-app
-Uber Like App
+https://www.jumpeats.com
+https://get.jumpeats.com
